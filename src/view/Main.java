@@ -28,6 +28,7 @@ public class Main extends PApplet {
 		switch(screen) {
 		case 0:
 			loginScreen.paint();
+			ellipse(50,50,50,50);
 			break;
 		}
 	}
